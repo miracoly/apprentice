@@ -1,0 +1,3 @@
+- public final static class VS. interface with static methods
+- sollte ich methode 'equals' von Objekt überschreiben oder lieber eigene vergleichsmethode schreiben.
+  - bedenken: object.equals verlangt type objekt -> möglicher laufzeitfehler

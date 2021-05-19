@@ -1,0 +1,2 @@
+- [ ] Continious Integration
+- [ ] IntelliJ Shortcut Liste

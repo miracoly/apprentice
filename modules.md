@@ -28,6 +28,7 @@ module from other sources.
 - [Module 3 - OverTheWire](#module-3---overthewire)
 - [Module 4 - Shell Scripts 1](#module-4---shell-scripts-1)
 - [Module 5 - Shell Scripts 2](#module-5---shell-scripts-2)
+- [Module 6 - Learn Git Branches](#module-6---learn-git-branches)
 
 ## List of Modules
 
@@ -78,10 +79,15 @@ Complete the following tasks:
 *Command Line* - *Bash Scripts*
 
 Prerequisites: [Shell Scripts 1](#module-4---shell-scripts-1)<br>
-Complete the following tasks:
+Complete the following tasks in the [shell section on hackerrank](https://www.hackerrank.com/domains/shell)
 - [ ] Solve all **medium** shell challenges on
-    [hackerrank](https://www.hackerrank.com/domains/shell)
 - [ ] Solve all **hard** shell challenges on
-    [hackerrank](https://www.hackerrank.com/domains/shell)
 ---
 
+### Module 6 - Learn Git Branches
+*Git* - *Version Control*
+
+Complete the following tasks from [Learn Git Branches](https://learngitbranching.js.org/?locale=en_US):
+- [ ] Complete all levels in the *Main* section
+- [ ] Complete all levels in the *Remote* section
+---

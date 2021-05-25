@@ -11,7 +11,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
 - [ ] Frontend
     - [x] Javascript
     - [ ] TypeScript
-    - [ ] CSS & SCSS
+    - [x] CSS & SCSS
 - [ ] Backend
     - [ ] Java
 - [ ] Database
@@ -37,7 +37,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
     - [ ] Backend
         - [ ] Mockito
         - [ ] WireMock
-        - [ ] AssertJ
+        - [x] AssertJ
         - [ ] Rest Assured
         - [x] JUnit
 - [ ] Logging Framework (Log4J)
@@ -58,7 +58,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
     - [x] Constraints
 - [ ] Project Management
     - [x] Scrum
-    - [ ] Kanban
+    - [x] Kanban
 - [ ] Time Management
     - [x] Pomodoro
     - [ ] Alex' Steps
@@ -68,7 +68,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
     - [x] 4 Rules of Simple Design
     - [x] Clean Code
     - [x] Software Craftsmanship Manifest
-- [ ] Code of Development
+- [x] Code of Development
 - [ ] Presentation
     - [ ] Facilitate a Retro
     - [ ] Facilitate a Kata
@@ -101,12 +101,12 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
         - [x] Vimium (Chrome Plugin)
 - [x] Faster Typing
 - [ ] Build tools and package managers
-    - [ ] maven
+    - [x] maven
     - [x] npm
 - [ ] Command Line
     - [ ] Basic Commands
         - [ ] wget
-        - [ ] curl
+        - [x] curl
         - [x] grep
         - [ ] ...
     - [x] Basic Editors
@@ -114,9 +114,9 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
         - [x] nano
 - [ ] Rest Client
     - [ ] Insomnia
-- [ ] Version Control System
-    - [ ] Git
-- [ ] CI / CD
+- [x] Version Control System
+    - [x] Git
+- [x] CI / CD
 - [ ] SonarQube
 - [ ] docker
 

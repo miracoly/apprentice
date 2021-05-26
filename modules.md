@@ -91,3 +91,11 @@ Complete the following tasks from [Learn Git Branches](https://learngitbranching
 - [ ] Complete all levels in the *Main* section
 - [ ] Complete all levels in the *Remote* section
 ---
+
+### Module 7 - LCD-Numbers Mocking Kata
+*Kata* - *Test Doubles* - *Mocking*
+
+Complete the following kata.
+- [ ] LCD-Numbers Mocking Kata -
+    [codecop](https://github.com/codecop/LCD-Numbers-Mocking-Kata/tree/master/Java)
+---

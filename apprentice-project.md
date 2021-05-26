@@ -4,6 +4,7 @@
 
 - Calculator for Microgreen-Business
 - Trainings-Log for HIT Training
+- Trading app for 'Aquires Multiple'
 
 ## Microgreen Office-Suite
 

@@ -20,7 +20,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
     - [ ] JSON
     - [x] HTML
     - [ ] XML
-- [x] Regex
+- [ ] Regex
 - [ ] Protocols
     - [ ] HTTP / Rest
 
@@ -76,20 +76,20 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
 
 ### Tools
 
-- [ ] OS (Software, Shortcuts)
-    - [ ] Onboarding
-        - [ ] Chocolatey / apt / ...
-    - [ ] Default Software
-        - [ ] Clipboard Manager
-        - [ ] Password Manager
-    - [ ] ...
-- [ ] IDE
-    - [ ] IntelliJ
-        - [ ] Shortcuts
-        - [ ] Plugins
-            - [ ] String Manipulator
-            - [ ] CheckStyle-IDEA
-            - [ ] SonarLint
+- [x] OS (Software, Shortcuts)
+    - [x] Onboarding
+        - [x] Chocolatey / apt / ...
+    - [x] Default Software
+        - [x] Clipboard Manager
+        - [x] Password Manager
+    - [x] ...
+- [x] IDE
+    - [x] IntelliJ
+        - [x] Shortcuts
+        - [x] Plugins
+            - [x] String Manipulator
+            - [x] CheckStyle-IDEA
+            - [x] SonarLint
     - [ ] Debugging
 - [ ] Browser
     - [ ] Plugins
@@ -108,7 +108,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
         - [ ] wget
         - [x] curl
         - [x] grep
-        - [ ] ...
+        - [x] ...
     - [x] Basic Editors
         - [x] vim
         - [x] nano

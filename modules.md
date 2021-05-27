@@ -99,3 +99,14 @@ Complete the following kata.
 - [ ] LCD-Numbers Mocking Kata -
     [codecop](https://github.com/codecop/LCD-Numbers-Mocking-Kata/tree/master/Java)
 ---
+
+### Module 8 - Learn Spring Certification Course
+*Spring*
+
+Watch the videos of the [Learn Sprint: The Certification Course](https://courses.baeldung.com/courses/enrolled/489537) and complete the
+following tasks.
+- [ ] Code along with every project of the course.
+
+**Hint:** You find the password for the course in KeePass.
+
+---

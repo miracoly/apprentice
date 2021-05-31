@@ -37,6 +37,7 @@
 - add price for microgreens
     - user can add specific price for Restaurants, Markets
     - maybe just general price, but you can add discounts
+- add grow method
 - generate delivery invoice for restaurants 
 - connect to sumup API to import your sales into new or existing market report
 - API to export to Datev

@@ -44,6 +44,7 @@
 - add your monthly running expenses
 - generate your average harvest per tray per variaty
 - calculate your profit for different scenarios, e.g. 1 market per week and 1 restaurant delivery per week
+- show grow capacities -> show possible options
 
 ## Business
 

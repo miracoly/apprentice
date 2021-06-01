@@ -41,6 +41,7 @@
 		- Jest with React Testing Library
 	- Typescript
 	- Redux for State Management
+	- React-Router
 
 ## Next Steps
 - user can add more microgreens

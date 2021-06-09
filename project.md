@@ -21,6 +21,28 @@
 - create new grow cycle
 - edit existing grow cycle
 
+## Data
+
+### Tracked Data
+- cycle-number
+- seed vendor
+- lot number
+- weight seeds
+- weight seeds per tray
+- soaked at
+- hours soaked
+- planted at
+- weight till
+- blackout till
+- under light
+- hours light per day
+- harvest weight per variety
+
+### Calculated Data
+- average harvest weight 
+- seed/harvest ratio
+- tray quantity
+
 
 ## Constrains
 - predefined microgreens

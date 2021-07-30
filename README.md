@@ -48,10 +48,10 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
     - [x] Unit Tests
     - [x] Integration Tests
     - [ ] Test Doubles
-        - [ ] Mock
-        - [ ] Spy
-        - [ ] Stub
-    - [ ] Test Data Builder
+        - [x] Mock
+        - [x] Spy
+        - [x] Stub
+    - [x] Test Data Builder
     - [x] Testing Pyramid
 - [x] Pairing
     - [x] Driver / Navigator
@@ -128,6 +128,6 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
 
 ### Achievements
 
-- [ ] Option to start getting a CSD certificate
-- [ ] Finish apprentice project
+- [x] Option to start getting a CSD certificate
+- [x] Finish apprentice project
 - [ ] Attend an Open Space

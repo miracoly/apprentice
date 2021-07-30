@@ -10,10 +10,10 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
 
 - [ ] Frontend
     - [x] Javascript
-    - [ ] TypeScript
+    - [x] TypeScript
     - [x] CSS & SCSS
-- [ ] Backend
-    - [ ] Java
+- [x] Backend
+    - [x] Java
 - [ ] Database
     - [ ] *SQL
 - [ ] Markup Languages / Notations
@@ -21,24 +21,24 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
     - [x] HTML
     - [ ] XML
 - [ ] Regex
-- [ ] Protocols
-    - [ ] HTTP / Rest
+- [x] Protocols
+    - [x] HTTP / Rest
 
 ### Frameworks
 
-- [ ] Spring Boot
-- [ ] ORM ⚠
-- [ ] Angular
+- [x] Spring Boot
+- [x] ORM ⚠
+- [x] Angular / React / vergleichbares
 - [ ] Testing Frameworks
     - [ ] End-2-End Tests
         - [ ] Cypress
     - [ ] Frontend
-        - [ ] Karma / Jasmine
+        - [x] Karma / Jasmine / Jest / Testing Library
     - [ ] Backend
         - [ ] Mockito
         - [ ] WireMock
         - [x] AssertJ
-        - [ ] Rest Assured
+        - [x] Rest Assured
         - [x] JUnit
 - [ ] Logging Framework (Log4J)
 
@@ -46,17 +46,17 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
 
 - [ ] TDD
     - [x] Unit Tests
-    - [ ] Integration Tests
+    - [x] Integration Tests
     - [ ] Test Doubles
         - [ ] Mock
         - [ ] Spy
         - [ ] Stub
     - [ ] Test Data Builder
-    - [ ] Testing Pyramid
+    - [x] Testing Pyramid
 - [x] Pairing
     - [x] Driver / Navigator
     - [x] Constraints
-- [ ] Project Management
+- [x] Project Management
     - [x] Scrum
     - [x] Kanban
 - [ ] Time Management
@@ -71,7 +71,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
 - [x] Code of Development
 - [ ] Presentation
     - [ ] Facilitate a Retro
-    - [ ] Facilitate a Kata
+    - [x] Facilitate a Kata
     - [ ] Prepare and perform a short presentation (~15 mins)
 
 ### Tools
@@ -90,7 +90,7 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
             - [x] String Manipulator
             - [x] CheckStyle-IDEA
             - [x] SonarLint
-    - [ ] Debugging
+    - [x] Debugging
 - [ ] Browser
     - [ ] Plugins
         - [ ] Kee
@@ -100,25 +100,25 @@ This Checklist is an overview of technologies i am going to learn. Items marked 
     - [ ] Shortcuts
         - [x] Vimium (Chrome Plugin)
 - [x] Faster Typing
-- [ ] Build tools and package managers
+- [x] Build tools and package managers
     - [x] maven
     - [x] npm
-- [ ] Command Line
-    - [ ] Basic Commands
-        - [ ] wget
+- [x] Command Line
+    - [x] Basic Commands
+        - [x] wget
         - [x] curl
         - [x] grep
         - [x] ...
     - [x] Basic Editors
         - [x] vim
         - [x] nano
-- [ ] Rest Client
-    - [ ] Insomnia
+- [x] Rest Client
+    - [x] Insomnia / Postman
 - [x] Version Control System
     - [x] Git
 - [x] CI / CD
 - [ ] SonarQube
-- [ ] docker
+- [x] docker
 
 ### Books
 
